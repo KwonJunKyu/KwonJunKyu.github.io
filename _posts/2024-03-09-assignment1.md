@@ -4,7 +4,6 @@ title: "1주차 조사 과제"
 categories: assignment
 tags: [meaning]
 typora-root-url: ../
-toc: true
 ---
 
 ### 1. 용어 정리

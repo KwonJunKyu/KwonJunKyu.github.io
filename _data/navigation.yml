@@ -4,6 +4,14 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+
+docs:
+  - title: "Category"
+    children:
+      - title: "lecture"
+        url: /categories/#lecture
+      - title: "assignment"
+        url: /categories/#assignment
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

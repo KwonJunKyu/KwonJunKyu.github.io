@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "네트워크 코어/구조/보안, HTTP"
+title: "2주차: 네트워크 코어/구조/보안, HTTP"
 categories: lecture
 tags: [Abstraction, Protocol, TCP/IP, P2P]
 typora-root-url: ../
 ---
 
-PPT chapter 1. 34p. ~ chpater 2. 20p.
+PPT chapter 1. 34p. ~ chpater 2-1. 20p.
 
 ### 1. 네트워크 코어
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "개요 및 기본 용어 정리"
+title: "1주차: 개요 및 기본 용어 정리"
 categories: lecture
 tags: [Abstraction, Protocol]
 typora-root-url: ../
@@ -40,7 +40,13 @@ typora-root-url: ../
 
   **사전적 의미** : 외교적 의전 절차
 
-  사전적 의미와 같이 프로토콜은 자신의 뜻을 명확히 하기 위한 상호 간의 약속이다. A라고 말하면 상대방도 A라고 이해하는 것이 중요하다. 컴퓨터 사이에도 상호 규약이 없다면 데이터를 송수신할 때 서로 알 수 없는 바이너리 코드만 받게 될 것이다. 따라서 데이터를 어떻게 포장하고 해석할 것인지에 대한 규약, 프로토콜이 필요한 것이다.
+  사전적 의미와 같이 프로토콜은 자신의 뜻을 명확히 하기 위한 상호 간의 약속이다. A라고 말하면 상대방도 A라고 이해하는 것이 중요하다. 컴퓨터 사이에도 상호 규약이 없다면 데이터를 송수신할 때 서로 알 수 없는 바이너리 코드만 받게 될 것이다. 따라서 데이터를 어떻게 포장하고 해석할 것인지에 대한 규약, 프로토콜이 필요한 것이다. 이러한 프로토콜은 Syntax(구조, 규칙)와 Semantics(의미)로 이루어져 있어, 어떤 방식으로 내용을 전달할 것인지, 그 내용이 의미하는 바가 무엇인지를 정의한다.
+
+  
+
+  \< Syntax와 Semantics의 개념 >
+
+  <img src="/images/2024-03-08-firstWeek/protocol Syntax and Semantics.jpg" alt="protocol Syntax and Semantics" style="zoom:50%;" />
 
 - #### OSI 7계층
 
