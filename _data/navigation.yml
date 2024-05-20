@@ -8,10 +8,10 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: "lecture"
-        url: /categories/#lecture
-      - title: "assignment"
-        url: /categories/#assignment
+      - title: "RaspberryPi"
+        url: /categories/#RaspberryPi
+      - title: "Algorithm"
+        url: /categories/#Algorithm
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
