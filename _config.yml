@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "contrast", "air", "aqua", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Normal_Coding"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "흔한 코딩을 더욱 깊게"
 name                     : "권준규"
 description              : "단국대학교 소프트웨어학과 23학번"
 url                      : "https://KwonJunKyu.github.io"
@@ -96,10 +96,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-70675T9FGE"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
